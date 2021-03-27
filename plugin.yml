@@ -1,0 +1,9 @@
+name: ListUI
+main: ListUI\Ayrz
+api: 3.17.5
+version: 1.16
+author: Ayrz
+
+commands:
+  listui:
+    description: "Online Players UI"
